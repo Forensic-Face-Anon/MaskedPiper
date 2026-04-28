@@ -14,6 +14,10 @@ Given an input video, Masked-Piper iteratively processes each frame to produce: 
 <img src="assets/results.gif">
 </div>
 
+<div align="center">
+<img src="assets/results2.png">
+</div>
+
 This simpler approach **utilises MediaPipe to track 33 body pose keypoints, 42 hand keypoints and a dense facial mesh consisting of 478 facial landmarks**, each represented in 3D coordinates. 
 
 
