@@ -1,0 +1,5 @@
+#mediapipe==0.8.9.1
+mediapipe==0.10.5
+opencv-python
+jupyter
+pandas
